@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="0afbe8bf-347c-4b73-9a67-d0e76dda3f7b" 
+        solutionId="0afbe8bf-347c-4b73-9a67-d0e76dda3f7b" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="UbertTaskListAngularApp"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="cd5b3b61-1b9e-46c2-846a-71e74432950b" />
+  </features>
+</package>
